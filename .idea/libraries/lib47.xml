@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib47">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/webDeployment/lib/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/webDeployment/lib/webDeployment.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/webDeployment/lib/jackrabbit2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/webDeployment/lib/commons-vfs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/webDeployment/lib/commons-pool2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/webDeployment/lib/commons-net.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

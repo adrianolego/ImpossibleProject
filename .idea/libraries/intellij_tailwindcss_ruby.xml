@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.tailwindcss.ruby">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/tailwindcss/lib/modules/intellij.tailwindcss.ruby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

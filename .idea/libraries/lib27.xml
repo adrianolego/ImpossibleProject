@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib27">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/ktor-server-sse-jvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/night-config-toml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/io.modelcontextprotocol.kotlin.sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/ktor-server-content-negotiation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/io.github.oshai.kotlin.logging.jvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/io.github.smiley4.schema.kenerator.jsonschema.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/mcpserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/io.github.smiley4.schema.kenerator.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/io.github.smiley4.schema.kenerator.serialization.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microservices-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/microservices-plugin/lib/microservices-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

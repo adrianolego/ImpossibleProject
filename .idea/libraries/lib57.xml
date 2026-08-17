@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib57">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/uml/lib/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/uml/lib/uml-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

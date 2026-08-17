@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules46">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/json/lib/modules/intellij.json.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/json/lib/modules/intellij.json.structureView.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/json/lib/modules/intellij.json.backend.regexp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/json/lib/modules/intellij.json.networknt.wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/json/lib/modules/intellij.json.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

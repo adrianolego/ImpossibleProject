@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="modules78">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/indexing-shared/lib/modules/intellij.indexing.shared.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/indexing-shared/lib/modules/intellij.indexing.shared.performanceTesting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/indexing-shared/lib/modules/intellij.indexing.shared.ultimate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/indexing-shared/lib/modules/intellij.indexing.shared.ultimate.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/indexing-shared/lib/modules/intellij.indexing.shared.generator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/indexing-shared/lib/modules/intellij.indexing.shared.ultimate.git.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/indexing-shared/lib/modules/intellij.python.sharedIndexes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.mermaid.markdown">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/mermaid/lib/modules/intellij.mermaid.markdown.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

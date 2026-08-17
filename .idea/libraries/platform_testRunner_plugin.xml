@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-testRunner-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-testRunner-plugin/lib/platform-testRunner-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

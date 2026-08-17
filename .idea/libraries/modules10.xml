@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javaFX/lib/modules/intellij.javaFX.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javaFX/lib/modules/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javaFX/lib/modules/intellij.javaFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

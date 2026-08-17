@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="modules40">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.coverage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.backend.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.backend.rpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.javaee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.dap.launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.elementInspector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.javaee.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.webstorm.specific.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.reactNativeDebugger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.wip.protocol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.debugger.webDeployment.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/modules/intellij.javascript.wip.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

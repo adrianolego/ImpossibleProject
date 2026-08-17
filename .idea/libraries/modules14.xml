@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/modules/intellij.dfa.analysis.rml.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/modules/intellij.dfa.analysis.rml.intellij.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/modules/intellij.dfa.analysis.ui.java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules58">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/modules/intellij.mcpserver.terminal.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/modules/intellij.mcpserver.vcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/mcpserver/lib/modules/intellij.mcpserver.terminal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

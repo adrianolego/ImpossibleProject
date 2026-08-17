@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/JavaeeWeb/lib/javaee-web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/JavaeeWeb/lib/intellij.platform.commercial.verifier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

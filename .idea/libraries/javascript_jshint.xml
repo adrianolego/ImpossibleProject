@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javascript-jshint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-jshint/lib/javascript-jshint.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

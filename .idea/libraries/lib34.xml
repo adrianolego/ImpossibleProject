@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib34">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.compiler.instrumentationUtil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.psi.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.compiler.instrumentationUtil.java8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.frontback.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.syntax.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/debugger-memory-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.debugger.impl.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.frontback.psi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.guiForms.compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/sa-jdwp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/jps-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.compiler.antTasks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/jps-javac-extension.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/kotlin-metadata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.psi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/netty-codec-protobuf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/java-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.platform.jps.build.javac.rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.libraries.test.discovery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij-test-discovery-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.execution.impl.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/intellij.java.frontback.psi.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java/lib/jb-jdi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

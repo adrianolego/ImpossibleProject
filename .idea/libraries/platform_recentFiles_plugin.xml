@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-recentFiles-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-recentFiles-plugin/lib/platform-recentFiles-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

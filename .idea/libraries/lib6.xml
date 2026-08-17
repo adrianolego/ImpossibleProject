@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/groovy-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/gradle-tooling-proxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/intellij.gradle.settings.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/groovy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/gradle-api-9.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/gradle-tooling-extension-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/gradle-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/intellij.gradle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/gradle-tooling-extension-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

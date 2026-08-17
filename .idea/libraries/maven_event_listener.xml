@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-event-listener">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.rt/maven-event-listener.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

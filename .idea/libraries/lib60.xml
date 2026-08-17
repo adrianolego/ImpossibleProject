@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib60">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/DatabaseTools/lib/tips-database-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/DatabaseTools/lib/intellij.platform.commercial.verifier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

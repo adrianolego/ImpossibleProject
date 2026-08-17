@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.vcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.typos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/modules/intellij.searchEverywhereMl.ranking.yaml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

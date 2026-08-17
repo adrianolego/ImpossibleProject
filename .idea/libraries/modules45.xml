@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="modules45">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.inspectionKts.kotlin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.coverage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.coverage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.inspectionKts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.inspectionKts.mcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.go.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.swagger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.php.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.groovy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.yaml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.inspectionKts.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.python.community.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.python.coverage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.cpp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.poly.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.inspectionKts.js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.kotlin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.rust.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.maven.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/modules/intellij.qodana.jvm.gradle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

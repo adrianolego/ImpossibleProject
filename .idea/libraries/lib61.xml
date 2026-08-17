@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib61">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/properties/lib/intellij.properties.psi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/properties/lib/intellij.properties.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

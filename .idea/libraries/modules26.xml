@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-todo-plugin/lib/modules/intellij.platform.todo.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-todo-plugin/lib/modules/intellij.platform.vcs.impl.lang.todo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-todo-plugin/lib/modules/intellij.platform.todo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

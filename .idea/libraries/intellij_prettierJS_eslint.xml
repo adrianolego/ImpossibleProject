@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.prettierJS.eslint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/prettierJS/lib/modules/intellij.prettierJS.eslint.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

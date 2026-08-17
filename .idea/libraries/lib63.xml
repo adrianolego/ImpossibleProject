@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib63">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/xml-refactoring/lib/xml-refactoring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/xml-refactoring/lib/intellij.platform.commercial.verifier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

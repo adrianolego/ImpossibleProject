@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-ssh-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-ssh-plugin/lib/platform-ssh-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

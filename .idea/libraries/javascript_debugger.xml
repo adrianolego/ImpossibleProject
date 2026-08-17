@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javascript-debugger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-debugger/lib/javascript-debugger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.backend.spellchecking.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/editorconfig-plugin/lib/modules/intellij.editorconfig.frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

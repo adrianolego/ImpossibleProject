@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.vitejs.react">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/vitejs/lib/modules/intellij.vitejs.react.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

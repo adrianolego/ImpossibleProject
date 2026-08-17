@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-gitlab/lib/modules/intellij.vcs.gitlab.git.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-gitlab/lib/modules/intellij.vcs.gitlab.ultimate.features.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-gitlab/lib/modules/intellij.vcs.gitlab.ultimate.ci.sh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-gitlab/lib/modules/intellij.vcs.gitlab.yaml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

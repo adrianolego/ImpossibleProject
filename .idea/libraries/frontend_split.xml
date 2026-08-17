@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="frontend-split">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/frontend-split/frontend-split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/frontend-split/frontend-split-customization.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

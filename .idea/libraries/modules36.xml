@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="modules36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.localHistory.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.performanceTesting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.terminal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.model.generated.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/modules/intellij.vcs.git.coverage.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

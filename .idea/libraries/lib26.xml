@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/artifact-resolver-m31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/maven-indexer-api-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/maven-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/maven-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

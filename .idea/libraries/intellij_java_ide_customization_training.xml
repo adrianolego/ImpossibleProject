@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.java.ide.customization.training">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/java-ide-customization/lib/modules/intellij.java.ide.customization.training.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

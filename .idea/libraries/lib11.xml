@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javaee-jax-rs/lib/javaee-jax-rs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javaee-jax-rs/lib/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javaee-jax-rs/lib/javaee-jax-ws-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

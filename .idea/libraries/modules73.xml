@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules73">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-recentFiles-plugin/lib/modules/intellij.platform.recentFiles.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-recentFiles-plugin/lib/modules/intellij.platform.recentFiles.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-recentFiles-plugin/lib/modules/intellij.platform.recentFiles.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

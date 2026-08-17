@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules75">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.platform.daemon.client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.platform.daemon.connection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.platform.daemon.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.libraries.daemon.client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-daemon-plugin/lib/modules/intellij.platform.daemon.workspaces.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-todo-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-todo-plugin/lib/platform-todo-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

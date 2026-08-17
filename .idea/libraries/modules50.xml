@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules50">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-docker-gateway/lib/modules/intellij.clouds.docker.gateway.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-docker-gateway/lib/modules/intellij.clouds.docker.gateway.forwardPorts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

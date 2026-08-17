@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javaFX/lib/javaFX-jps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javaFX/lib/javaFX.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javaFX/lib/javaFX-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

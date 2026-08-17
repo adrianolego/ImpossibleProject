@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/yaml/lib/modules/intellij.yaml.helm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/yaml/lib/modules/intellij.yaml.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/yaml/lib/modules/intellij.yaml.frontend.split.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules66">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-structureView-plugin/lib/modules/intellij.platform.structureView.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-structureView-plugin/lib/modules/intellij.platform.structureView.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-structureView-plugin/lib/modules/intellij.platform.structureView.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-structureView-plugin/lib/modules/intellij.platform.structureView.frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

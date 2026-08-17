@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mermaid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/mermaid/lib/mermaid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

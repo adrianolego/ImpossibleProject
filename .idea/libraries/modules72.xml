@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules72">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/micronaut/lib/modules/intellij.micronaut.gradle.tooling.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/micronaut/lib/modules/intellij.micronaut.langInjection.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

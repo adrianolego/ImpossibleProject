@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/performanceTesting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/intellij.driver.model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/intellij.tools.ide.starter.bus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/github.oshi.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/intellij.libraries.assertj.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/intellij.driver.client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/intellij.driver.impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

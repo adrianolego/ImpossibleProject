@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib40">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/settingsSync/lib/settingsSync.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/settingsSync/lib/cloud-config-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

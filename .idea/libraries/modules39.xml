@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="modules39">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.aqua.runners.js.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.sh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.newProject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.sharedIndexes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.copyright.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.ideaUltimate.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.grazie.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.terminal.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.psi.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.performanceTesting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.backend.spellchecker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.codeinsight.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.structureView.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.duplicatesDetection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.featuresTrainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.aqua.runners.playwright.js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.aqua.runners.cypress.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.coverage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.backend.regexp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.profiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.terminal.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.devkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.terminal.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.langInjection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.ideaUltimate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.git4idea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.markdown.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.backend.diagrams.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.ultimate.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.newProject.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.analysis.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.ultimate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.common.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.mcpServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.backend.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.sharedIndexes.generator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.fileWatcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.testing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.completion.ml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-plugin/lib/modules/intellij.javascript.backend.scriptDebugger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules49">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/react-plugin/lib/modules/intellij.react.ultimate.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/react-plugin/lib/modules/intellij.react.ultimate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/react-plugin/lib/modules/intellij.react.free.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

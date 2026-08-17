@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.vcs.gitlab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-gitlab/lib/intellij.vcs.gitlab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

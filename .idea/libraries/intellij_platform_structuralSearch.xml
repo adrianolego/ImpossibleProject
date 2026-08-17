@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.platform.structuralSearch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-structuralSearch-plugin/lib/modules/intellij.platform.structuralSearch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

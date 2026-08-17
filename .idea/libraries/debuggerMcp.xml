@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="debuggerMcp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/debuggerMcp/lib/debuggerMcp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

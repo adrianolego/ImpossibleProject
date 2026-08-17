@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/jetbrains.ai.completion.trigger.model.polyglot.cloud.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/clikt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/jetbrains.ai.completion.trigger.model.text.cloud.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/fullLine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/jetbrains.ai.completion.trigger.model.markdown.cloud.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/jetbrains.mlapi.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/jgrapht.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/fullLine/lib/github.oshi.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

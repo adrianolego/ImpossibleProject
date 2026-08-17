@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/JavaEE/lib/javaee-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/JavaEE/lib/jasper-v2-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/JavaEE/lib/javaee-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/JavaEE/lib/intellij.platform.commercial.verifier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

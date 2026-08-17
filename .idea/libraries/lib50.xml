@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib50">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/repository-search/lib/package-search-api-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/repository-search/lib/repository-search.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

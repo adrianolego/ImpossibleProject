@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib46">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/Spring/lib/spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Spring/lib/intellij.platform.commercial.verifier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules55">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/sh-plugin/lib/modules/intellij.sh.python.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/sh-plugin/lib/modules/intellij.sh.copyright.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/sh-plugin/lib/modules/intellij.sh.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/sh-plugin/lib/modules/intellij.sh.terminal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/sh-plugin/lib/modules/intellij.sh.markdown.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/sh-plugin/lib/modules/intellij.sh.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

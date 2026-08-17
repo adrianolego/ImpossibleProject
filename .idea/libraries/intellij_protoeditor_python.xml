@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.protoeditor.python">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/protoeditor/lib/modules/intellij.protoeditor.python.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

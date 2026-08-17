@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/terminal/lib/modules/intellij.terminal.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/terminal/lib/modules/intellij.terminal.cloud.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/terminal/lib/modules/intellij.terminal.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/terminal/lib/modules/intellij.terminal.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/terminal/lib/modules/intellij.terminal.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/terminal/lib/modules/intellij.terminal.sh.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

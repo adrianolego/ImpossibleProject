@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib62">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/microservices-jvm/lib/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/microservices-jvm/lib/jetbrains.intellij.deps.scheduled.debugger.agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/microservices-jvm/lib/microservices-jvm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

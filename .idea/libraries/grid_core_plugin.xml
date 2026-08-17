@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grid-core-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/grid-core-plugin/lib/grid-core-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

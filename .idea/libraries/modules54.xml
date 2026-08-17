@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="modules54">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.free.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.webpack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.debugger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.eslint.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.markdown.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.prettier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vuejs-plugin/lib/modules/intellij.vuejs.copyright.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

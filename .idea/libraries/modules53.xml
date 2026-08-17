@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules53">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/station-plugin/lib/modules/intellij.station.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/station-plugin/lib/modules/intellij.station.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/station-plugin/lib/modules/intellij.station.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/station-plugin/lib/modules/intellij.station.aia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

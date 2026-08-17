@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.spring.integration.diagram">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/spring-integration-core/lib/modules/intellij.spring.integration.diagram.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

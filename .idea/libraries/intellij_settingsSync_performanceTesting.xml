@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.settingsSync.performanceTesting">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/settingsSync/lib/modules/intellij.settingsSync.performanceTesting.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

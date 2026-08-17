@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kotlin-frontend">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/Kotlin/lib/frontend-split/kotlin-frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

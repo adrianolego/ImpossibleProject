@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.remoteRun.gradle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/remoteRun/lib/modules/intellij.remoteRun.gradle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

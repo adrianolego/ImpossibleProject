@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/repository-search/lib/modules/intellij.repository.search.ultimate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/repository-search/lib/modules/intellij.repository.search.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/repository-search/lib/modules/intellij.repository.search.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/repository-search/lib/modules/intellij.libraries.kotlinx.document.store.mvstore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

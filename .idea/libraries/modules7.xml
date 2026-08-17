@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="modules7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.mvc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.gradle.kts.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.cron.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.cron.yaml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.core.copyright.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.gradle.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.run.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.liquibase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.maven.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.run.shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.core.ide.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.cron.properties.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.data.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.run.diagram.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.flyway.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.jpa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.configYaml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.properties.datasource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.run.free.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/modules/intellij.spring.boot.yaml.datasource.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

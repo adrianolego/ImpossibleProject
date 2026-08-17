@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="modules33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.connection.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.inline.completion.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.rd.eel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.execution.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.split.connection.devSources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.kernel.base.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.undo.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.plugin.provisioner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.split.connection.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.rd.eel.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.execution.process.elevation.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.plugins.shared.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.completion.common.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.identifiers.highlighting.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.frontend.split.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.remoteController.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.navbar.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.xml.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.completion.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.plugins.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.plugin.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.frontend.split.startup.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.rd.eel.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.credentialStore.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.split.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.split.statistics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.credentialStore.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.plugin.common.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.credentialStore.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.plugins.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.completion.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.buildView.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.kernel.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.rpc.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.libraries.tls.channel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.backend.split.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.frontend.split.connection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.connection.backend.license.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.frontend.split.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.split.connection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.connection.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.connection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.searchEverywhere.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.remoteController.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.platform.frontend.split.devSources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/modules/intellij.cwm.vcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

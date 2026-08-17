@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.swagger.gradle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/swagger/lib/modules/intellij.swagger.gradle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-testRunner-plugin/lib/modules/intellij.platform.smRunner.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-testRunner-plugin/lib/modules/intellij.platform.smRunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-testRunner-plugin/lib/modules/intellij.platform.smRunner.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-testRunner-plugin/lib/modules/intellij.platform.testRunner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/debugger-collections-visualizer/lib/modules/intellij.debugger.collections.visualizer.jvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/debugger-collections-visualizer/lib/modules/intellij.debugger.collections.visualizer.core.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/debugger-collections-visualizer/lib/modules/intellij.debugger.collections.visualizer.core.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

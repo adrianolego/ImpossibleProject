@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.freemarker.spring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/freemarker/lib/modules/intellij.freemarker.spring.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

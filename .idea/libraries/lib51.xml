@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib51">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/jetbrains.qodana.web.ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/qodana.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/intellij.qodana.sarif.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/jline.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/jetbrains.qodana.publisher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/jetbrains.qodana.cloud.kotlin.client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/flexmark.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/jetbrains.qodana.configuration.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/jetbrains.qodana.sarif.converter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/qodana/lib/intellij.qodana.util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

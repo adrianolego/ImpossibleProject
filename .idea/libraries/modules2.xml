@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/jcef-plugin/lib/modules/intellij.jcef.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/jcef-plugin/lib/modules/intellij.internal.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/jcef-plugin/lib/modules/intellij.platform.ide.impl.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/jcef-plugin/lib/modules/intellij.platform.ui.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/jcef-plugin/lib/modules/intellij.platform.ide.newUiOnboarding.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/jcef-plugin/lib/modules/intellij.libraries.jcef.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

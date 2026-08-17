@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/restClient/lib/modules/intellij.httpClient.grpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/restClient/lib/modules/intellij.httpClient.jcef.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

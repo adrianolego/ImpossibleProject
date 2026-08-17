@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.completion.toml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.completion.ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.completion.kotlin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gradle-plugin/lib/modules/intellij.gradle.properties.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

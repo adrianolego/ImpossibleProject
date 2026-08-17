@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib58">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/quarkus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/intellij.platform.commercial.verifier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

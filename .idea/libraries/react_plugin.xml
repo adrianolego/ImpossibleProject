@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="react-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/react-plugin/lib/react-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

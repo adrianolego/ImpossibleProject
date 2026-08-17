@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules37">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/Groovy/lib/modules/intellij.groovy.ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Groovy/lib/modules/intellij.groovy.copyright.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Groovy/lib/modules/intellij.groovy.byteCodeViewer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

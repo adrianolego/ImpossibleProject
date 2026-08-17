@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules38">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/less/lib/modules/intellij.less.watcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/less/lib/modules/intellij.less.copyright.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

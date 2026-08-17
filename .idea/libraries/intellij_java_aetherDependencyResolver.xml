@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.java.aetherDependencyResolver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/java-aetherDependencyResolver-plugin/lib/modules/intellij.java.aetherDependencyResolver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

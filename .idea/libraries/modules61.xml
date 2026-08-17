@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules61">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/spring-security/lib/modules/intellij.spring.security.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/spring-security/lib/modules/intellij.spring.security.el.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

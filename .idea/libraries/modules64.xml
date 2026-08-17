@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/grid-core-plugin/lib/modules/intellij.grid.types.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/grid-core-plugin/lib/modules/intellij.grid.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/grid-core-plugin/lib/modules/intellij.grid.core.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/grid-core-plugin/lib/modules/intellij.grid.impl.ide.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/grid-core-plugin/lib/modules/intellij.grid.csv.core.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/grid-core-plugin/lib/modules/intellij.grid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

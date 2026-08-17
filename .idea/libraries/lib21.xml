@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/swagger/lib/intellij.swagger.redoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/swagger/lib/swagger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/swagger/lib/org.webjars-swagger-ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/swagger/lib/org.webjars.npm-asyncapi__react-component.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

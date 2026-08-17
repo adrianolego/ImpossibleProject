@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-navbar-plugin/lib/modules/intellij.platform.navbar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-navbar-plugin/lib/modules/intellij.platform.navbar.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-navbar-plugin/lib/modules/intellij.platform.navbar.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-navbar-plugin/lib/modules/intellij.platform.navbar.monolith.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

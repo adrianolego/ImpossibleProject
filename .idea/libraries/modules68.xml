@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules68">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/JPA/lib/modules/intellij.javaee.jpa.console.groovy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/JPA/lib/modules/intellij.javaee.jpa.kotlin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/featuresTrainer/lib/featuresTrainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/featuresTrainer/lib/intellij.libraries.assertj.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/featuresTrainer/lib/assertj-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/featuresTrainer/lib/git-learning-project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-execution-serviceView-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-execution-serviceView-plugin/lib/platform-execution-serviceView-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

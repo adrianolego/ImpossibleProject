@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javascript-eslint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/javascript-eslint/lib/javascript-eslint.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

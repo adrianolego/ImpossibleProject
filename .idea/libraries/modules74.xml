@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="modules74">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.terminal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.eel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.standalone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.ssh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.standalone.ssh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.core.dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/gateway-plugin/lib/modules/intellij.gateway.station.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

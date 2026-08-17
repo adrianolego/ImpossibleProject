@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib53">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/groovy-scripting/lib/intellij.libraries.ivy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/groovy-scripting/lib/groovy-scripting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/groovy-scripting/lib/intellij.libraries.groovy.jsr223.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/groovy-scripting/lib/intellij.libraries.groovy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

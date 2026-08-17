@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="modules25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.fenceInjection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.compose.preview.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.fenceInjector.textMate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.images.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.frontmatter.yaml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.frontmatter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.frontmatter.toml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/markdown/lib/modules/intellij.markdown.spellchecker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

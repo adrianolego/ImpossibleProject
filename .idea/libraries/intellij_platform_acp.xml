@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.platform.acp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-acp-plugin/lib/modules/intellij.platform.acp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

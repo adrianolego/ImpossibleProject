@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.vcs.github">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-github/lib/intellij.vcs.github.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

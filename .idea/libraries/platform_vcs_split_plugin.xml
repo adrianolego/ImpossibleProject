@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-vcs-split-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-vcs-split-plugin/lib/platform-vcs-split-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

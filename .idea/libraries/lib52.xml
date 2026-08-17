@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib52">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/cron/lib/cronutils.cron.utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cron/lib/cron.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

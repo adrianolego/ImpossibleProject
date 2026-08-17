@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-structureView-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-structureView-plugin/lib/platform-structureView-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

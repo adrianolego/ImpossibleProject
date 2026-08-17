@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib43">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/intellij.dfa.analysis.rml.taint.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/intellij.dfa.analysis.ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/intellij.dfa.analysis.rml.intellij.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/intellij.dfa.analysis.rml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dfa-analysis-plugin/lib/dfa-analysis-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.ktor.run.gradle.tooling">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/ktor/lib/modules/intellij.ktor.run.gradle.tooling.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

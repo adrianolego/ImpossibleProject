@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="intellij.maven.server4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server4/jackson-core-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server4/maven-server-telemetry.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server4/maven40-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

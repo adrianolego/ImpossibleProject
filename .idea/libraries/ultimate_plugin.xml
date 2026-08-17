@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ultimate-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/ultimate-plugin/lib/ultimate-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib38">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/vcs-git.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/vcs-git/lib/git4idea-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

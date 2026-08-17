@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-navbar-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-navbar-plugin/lib/platform-navbar-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

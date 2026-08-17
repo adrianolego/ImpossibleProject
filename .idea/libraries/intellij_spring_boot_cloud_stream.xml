@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.spring.boot.cloud.stream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-cloud/lib/modules/intellij.spring.boot.cloud.stream.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

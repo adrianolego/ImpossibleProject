@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libraries-misc-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/libraries-misc-plugin/lib/libraries-misc-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="modules52">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.performanceTesting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.proofreading.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.jps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.groovy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.errorProne.compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.completion.ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.profiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/modules/intellij.maven.jps.ide.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

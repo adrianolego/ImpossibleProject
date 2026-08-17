@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules77">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-kubernetes/lib/modules/intellij.clouds.kubernetes.charts.gotpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-kubernetes/lib/modules/intellij.clouds.kubernetes.db.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-kubernetes/lib/modules/intellij.clouds.kubernetes.cron.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-kubernetes/lib/modules/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-kubernetes/lib/modules/intellij.clouds.kubernetes.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/clouds-kubernetes/lib/modules/intellij.clouds.kubernetes.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

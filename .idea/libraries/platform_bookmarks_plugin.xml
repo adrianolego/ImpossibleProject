@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-bookmarks-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-bookmarks-plugin/lib/platform-bookmarks-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

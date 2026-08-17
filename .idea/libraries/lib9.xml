@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/java-coverage/lib/jacoco.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java-coverage/lib/java-coverage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java-coverage/lib/java-coverage-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java-coverage/lib/intellij.libraries.test.discovery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java-coverage/lib/coverage-report.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/java-coverage/lib/intellij-test-discovery-agent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

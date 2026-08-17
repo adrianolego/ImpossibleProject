@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/json/lib/intellij.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/json/lib/intellij.json.syntax.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

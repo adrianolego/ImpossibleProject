@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="intellij.maven.server3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/jackson-core-2.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/nexus-indexer-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/maven3-server-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/archetype-catalog-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/maven3-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/nexus-indexer-artifact-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/maven-dependency-tree-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/archetype-common-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/lucene-core-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/archetype-descriptor-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maven-plugin/lib/intellij.maven.server3/maven-server-telemetry.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

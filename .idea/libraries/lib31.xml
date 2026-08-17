@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/toml/lib/intellij.toml.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/toml/lib/toml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

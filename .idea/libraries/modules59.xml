@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules59">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-ssh-plugin/lib/modules/intellij.platform.ssh.attach.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-ssh-plugin/lib/modules/intellij.platform.ssh.ui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-ssh-plugin/lib/modules/intellij.platform.ssh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-ssh-plugin/lib/modules/intellij.libraries.jsch.agent.proxy.sshj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-ssh-plugin/lib/modules/intellij.platform.ssh.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/android-gradle-declarative-lang-ide/lib/intellij.android.gradle.declarative.lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/android-gradle-declarative-lang-ide/lib/intellij.android.gradle.declarative.lang.sync.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/android-gradle-declarative-lang-ide/lib/android-gradle-declarative-lang-ide.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/android-gradle-declarative-lang-ide/lib/intellij.android.gradle.declarative.lang.flags.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

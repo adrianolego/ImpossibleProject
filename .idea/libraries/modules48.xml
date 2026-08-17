@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="modules48">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.remoteDriver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.freezes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.vcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.remoteDriver.compose.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.async.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.remoteDriver.jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.driver.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.driver.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/performanceTesting/lib/modules/intellij.performanceTesting.frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

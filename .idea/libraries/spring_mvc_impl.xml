@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-mvc-impl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/spring-mvc-impl/lib/spring-mvc-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

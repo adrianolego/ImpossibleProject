@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/spring-boot-plugin/lib/spring-boot-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

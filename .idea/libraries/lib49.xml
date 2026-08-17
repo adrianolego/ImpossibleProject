@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib49">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/ai.grazie.emb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/ai.grazie.model.swagger.annotations.jvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/searchEverywhereMl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/searchEverywhereMl/lib/jetbrains.mlapi.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules57">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/libraries-misc-plugin/lib/modules/intellij.libraries.jettison.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/libraries-misc-plugin/lib/modules/intellij.libraries.opencsv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/libraries-misc-plugin/lib/modules/intellij.libraries.commons.text.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/libraries-misc-plugin/lib/modules/intellij.libraries.xstream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/libraries-misc-plugin/lib/modules/intellij.libraries.javax.activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/libraries-misc-plugin/lib/modules/intellij.libraries.lucene.common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

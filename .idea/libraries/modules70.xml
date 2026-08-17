@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="modules70">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/modules/intellij.quarkus.docker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/modules/intellij.quarkus.maven.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/modules/intellij.quarkus.gradle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/modules/intellij.quarkus.config.yaml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/modules/intellij.quarkus.cron.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/modules/intellij.quarkus.gradle.kts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/quarkus/lib/modules/intellij.quarkus.hibernate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.yaml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/yaml/lib/intellij.yaml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

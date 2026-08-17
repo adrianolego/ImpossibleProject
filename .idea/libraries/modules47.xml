@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="modules47">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.psi.webide.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.common.psi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.analysis.xml.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.actions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.emmet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.copyright.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.analysis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.platform.commercial.verifier.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.duplicatesDetection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.watcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/css-plugin/lib/modules/intellij.css.backend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

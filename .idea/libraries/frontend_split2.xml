@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="frontend-split2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/frontend-split/frontend-split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/cwm-plugin/lib/frontend-split/remote-dev-icons.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

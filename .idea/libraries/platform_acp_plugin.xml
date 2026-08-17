@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-acp-plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-acp-plugin/lib/platform-acp-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

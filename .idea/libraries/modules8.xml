@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="modules8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-vcs-split-plugin/lib/modules/intellij.platform.vcs.impl.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-vcs-split-plugin/lib/modules/intellij.platform.vcs.protocol.split.generated.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-vcs-split-plugin/lib/modules/intellij.platform.vcs.common.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-vcs-split-plugin/lib/modules/intellij.platform.vcs.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/platform-vcs-split-plugin/lib/modules/intellij.platform.vcs.backend.split.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

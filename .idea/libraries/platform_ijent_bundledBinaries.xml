@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="platform-ijent-bundledBinaries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/platform-ijent-bundledBinaries/lib/platform-ijent-bundledBinaries.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

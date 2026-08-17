@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/dev/lib/modules/intellij.platform.statistics.devkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dev/lib/modules/intellij.groovy.dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/dev/lib/modules/intellij.php.dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

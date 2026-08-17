@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="groovy-live-templates">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/groovy-live-templates/lib/groovy-live-templates.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

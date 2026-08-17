@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules62">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/textmate-plugin/lib/modules/intellij.textmate.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/textmate-plugin/lib/modules/intellij.textmate.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/textmate-plugin/lib/modules/intellij.textmate.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/textmate-plugin/lib/modules/intellij.textmate.joni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/textmate-plugin/lib/modules/intellij.textmate.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/textmate-plugin/lib/modules/intellij.textmate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
