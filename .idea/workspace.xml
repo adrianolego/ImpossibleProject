@@ -5,18 +5,105 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68286b15-d54e-45bc-9ebd-e7baaee37726" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Doc/Images/System_v1.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doc/Images/System_v1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/configs/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/request/OrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mvp/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mvp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mvp/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.399009488338483" />
+      <entry key="MS500" value="3.966962093200998" />
+      <entry key="S2" value="6.58816579147318" />
+      <entry key="S5" value="8.075122942067134" />
+      <entry key="S10" value="9.860828772882895" />
+      <entry key="S30" value="12.648038299537252" />
+      <entry key="S60" value="14.447900571453076" />
+      <entry key="M2" value="21.27598539294994" />
+      <entry key="M5" value="74.09831837918848" />
+      <entry key="M10" value="172.21326986432308" />
+      <entry key="M15" value="239.81685741139685" />
+      <entry key="M30" value="341.4438125300139" />
+      <entry key="H1" value="410.5512321647146" />
+      <entry key="H2" value="450.99667902447294" />
+      <entry key="H4" value="472.89595171338834" />
+      <entry key="D1" value="492.0627296300669" />
+      <entry key="W1" value="495.43537275585504" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.028984253341758E-136" />
+      <entry key="S5" value="4.0268318177541985E-55" />
+      <entry key="S10" value="6.345732280638853E-28" />
+      <entry key="S30" value="8.593312368797486E-10" />
+      <entry key="S60" value="2.932012775603623E-5" />
+      <entry key="M2" value="0.00549027466614357" />
+      <entry key="M5" value="0.1465060031758892" />
+      <entry key="M10" value="0.5021594197924832" />
+      <entry key="M15" value="0.7810035736641798" />
+      <entry key="M30" value="1.2375185198322092" />
+      <entry key="H1" value="1.5692767589040502" />
+      <entry key="H2" value="1.7704788260769173" />
+      <entry key="H4" value="1.881446106949634" />
+      <entry key="D1" value="1.9796911049559631" />
+      <entry key="W1" value="1.9970849501598835" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3373896441833815" />
+      <entry key="MS500" value="3.934441248258034" />
+      <entry key="S2" value="6.573906652434455" />
+      <entry key="S5" value="8.065149958808004" />
+      <entry key="S10" value="9.85241229412508" />
+      <entry key="S30" value="12.64349794045886" />
+      <entry key="S60" value="14.445234831437128" />
+      <entry key="M2" value="21.279521548248017" />
+      <entry key="M5" value="74.24144018021529" />
+      <entry key="M10" value="172.71107141364016" />
+      <entry key="M15" value="240.59368628088464" />
+      <entry key="M30" value="342.67826275096064" />
+      <entry key="H1" value="412.1186330750207" />
+      <entry key="H2" value="452.766118523451" />
+      <entry key="H4" value="474.7768504964762" />
+      <entry key="D1" value="494.04232546008905" />
+      <entry key="W1" value="497.4324439931308" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
@@ -31,10 +118,16 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MvpApplication.executor": "Debug",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "e-commerce-base",
     "kotlin-language-version-configured": "true",
@@ -46,7 +139,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -69,6 +162,13 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <configuration name="MvpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mvp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.e_commerce.mvp.MvpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -90,6 +190,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/service/OrderService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

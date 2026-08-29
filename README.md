@@ -25,9 +25,47 @@ It was installed java using sdkman
 
 - sdk install java 26.0.2-amzn
 
-
 The first version should be like below in the picture:
 
 ![System_v1.jpg](assets/System_v1.jpg?t=1787621856520)
 
 So, let's implement the endpoint to receive the purchase order and other 2 projects to send email and sms, so far we are gonna use the same database. When de system grows up we are gonna to separate the databases in order find a way to migrate data. Till here we need to create more 2 modules at the same project like a monolith used to be created.
+
+
+The database will be with those table below:
+
+-- Orders Table
+CREATE TABLE orders (
+id SERIAL PRIMARY KEY,
+customer_name VARCHAR(100) NOT NULL,
+customer_email VARCHAR(100) NOT NULL,
+customer_phone VARCHAR(20) NOT NULL,
+total_amount DECIMAL(10, 2) NOT NULL,
+status VARCHAR(30) DEFAULT 'PENDING', -- e.g., PENDING, PROCESSED, ERROR
+created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- SMS Configuration Table
+CREATE TABLE sms_config (
+id SERIAL PRIMARY KEY,
+provider VARCHAR(50) NOT NULL, -- e.g., Twilio, Zenvia
+api_url VARCHAR(255) NOT NULL,
+api_key VARCHAR(255) NOT NULL,
+sender VARCHAR(50),
+is_active BOOLEAN DEFAULT TRUE,
+updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Email Configuration Table
+CREATE TABLE email_config (
+id SERIAL PRIMARY KEY,
+provider VARCHAR(50) NOT NULL, -- e.g., SendGrid, Mailgun, SMTP
+smtp_host VARCHAR(150),
+smtp_port INT,
+username VARCHAR(100),
+password VARCHAR(255),
+sender_email VARCHAR(100) NOT NULL,
+sender_name VARCHAR(100),
+is_active BOOLEAN DEFAULT TRUE,
+updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
