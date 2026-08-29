@@ -31,7 +31,6 @@ The first version should be like below in the picture:
 
 So, let's implement the endpoint to receive the purchase order and other 2 projects to send email and sms, so far we are gonna use the same database. When de system grows up we are gonna to separate the databases in order find a way to migrate data. Till here we need to create more 2 modules at the same project like a monolith used to be created.
 
-
 The database will be with those table below:
 
 -- Orders Table
@@ -69,3 +68,7 @@ sender_name VARCHAR(100),
 is_active BOOLEAN DEFAULT TRUE,
 updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+After create controller, service, repository, configuration for OpenApi, docker configs and application.yaml for postgres database
+
+- Url for swagger : http://localhost:8080/swagger-ui/index.html#/
