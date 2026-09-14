@@ -1,0 +1,17 @@
+2026/08/31 22:32:42 INFO  - jmeter.util.JMeterUtils: Setting Locale to pt_BR 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: Loading user properties from: /usr/share/jmeter/bin/user.properties 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: Loading system properties from: /usr/share/jmeter/bin/system.properties 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: Version 2.13.20251208 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: java.version=26.0.2 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: java.vm.name=OpenJDK 64-Bit Server VM 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: os.name=Linux 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: os.arch=amd64 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: os.version=7.0.0-30-generic 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: Default Locale=português (Brasil) 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: JMeter  Locale=português (Brasil) 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: JMeterHome=/usr/share/jmeter 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: user.dir  =/home/adriano/git/ImpossibleProject 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: PWD       =/home/adriano/git/ImpossibleProject 
+2026/08/31 22:32:42 INFO  - jmeter.JMeter: IP: 127.0.1.1 Name: adriano-IdeaPad FullName: adriano-IdeaPad 

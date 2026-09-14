@@ -72,3 +72,25 @@ updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 After create controller, service, repository, configuration for OpenApi, docker configs and application.yaml for postgres database
 
 - Url for swagger : http://localhost:8080/swagger-ui/index.html#/
+
+First test running!, from swagger, a call was executed and the data was saved in the database. In order to garantee te test of the application as is done by the market the tool Jmeter was instaled and will be generate scenarios where it's gonna mansure the resilience and try to generate problems to be solved before.
+
+So far we have an application with 1 endpoint to save an order in the database and the structure for JMeter tests, in the future the idea is to work with grafana to make easy to verify the data collected in the test execution.
+
+- cd /tmp
+  curl -L -O https://downloads.apache.org/jmeter/binaries/apache-jmeter-5.6.3.tgz
+  tar -xzf apache-jmeter-5.6.3.tgz
+  sudo mkdir -p /opt
+  sudo mv apache-jmeter-5.6.3 /opt/jmeter
+- echo 'export PATH="/opt/jmeter/bin:$PATH"' >> ~/.bashrc
+  source ~/.bashrc
+- /opt/jmeter/bin/jmeter -n -t OrderLoadTest.jmx -l ../reports/result.jtl
+  /opt/jmeter/bin/jmeter -g ../reports/result.jtl -o ../reports/html
+
+Now a refector was done, changing the name 'mvp' to order-system and added email-system and sms-system in order to have 3 modules like the structure below:
+ImpossibleProject/
+├── order-system/   → porta 8080
+├── email-system/   → porta 8081
+└── sms-system/     → porta 8082
+
+Next step is to implement some logic on the order system and call the other modules simulating an order receive and sending to email and sms to continue the flow.
