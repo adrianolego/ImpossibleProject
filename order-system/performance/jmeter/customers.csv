@@ -1,0 +1,11 @@
+customerName,customerEmail,customerPhone,totalAmount,status
+Joao Silva,joao.silva@email.com,+5511999990001,149.90,PENDING
+Maria Souza,maria.souza@email.com,+5511888880002,299.50,PENDING
+Carlos Pereira,carlos.pereira@email.com,+5511777770003,79.99,PENDING
+Ana Costa,ana.costa@email.com,+5511666660004,499.90,PROCESSED
+Pedro Santos,pedro.santos@email.com,+5511555550005,89.00,PENDING
+Lia Rodrigues,lia.rodrigues@email.com,+5511444440006,159.75,PENDING
+Gabriel Almeida,gabriel.almeida@email.com,+5511333330007,650.00,PROCESSED
+Camila Nunes,camila.nunes@email.com,+5511222220008,320.10,PENDING
+Lucas Ferreira,lucas.ferreira@email.com,+5511111110009,45.50,PENDING
+Beatriz Martins,beatriz.martins@email.com,+5511000000010,990.00,ERROR
