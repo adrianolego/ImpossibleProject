@@ -88,9 +88,15 @@ So far we have an application with 1 endpoint to save an order in the database a
   /opt/jmeter/bin/jmeter -g ../reports/result.jtl -o ../reports/html
 
 Now a refector was done, changing the name 'mvp' to order-system and added email-system and sms-system in order to have 3 modules like the structure below:
+
 ImpossibleProject/
-├── order-system/   → porta 8080
-├── email-system/   → porta 8081
-└── sms-system/     → porta 8082
+├── order-system  → porta 8080
+├── email-system  → porta 8081
+└── sms-system    → porta 8082
 
 Next step is to implement some logic on the order system and call the other modules simulating an order receive and sending to email and sms to continue the flow.
+
+Implemented new GET endpoint that will return the order, in the service were implemented two calls, one to sms-system and another one to email-system, the flow so far is call order-system sending an order, the order is gonna be saved in the database, after that will call the clients using RestClient that is simple and integrated with spring-boot.
+The file docker compose was changed to run the applications at the same time to be tested.
+
+Next step will be run the applications and test it, once is working the unit tests will be fixed and let's start some performance tests where the idea is to send a lot of calls at the same time in order to verify the behavior and maybe problems with the approach chosen till here.

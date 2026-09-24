@@ -5,27 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68286b15-d54e-45bc-9ebd-e7baaee37726" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-system/src/main/java/com/e_commerce/email/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-system/src/main/java/com/e_commerce/email/entity/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-system/src/main/java/com/e_commerce/email/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-system/src/main/java/com/e_commerce/email/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/client/EmailClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/client/SmsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/configs/RestClientProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/response/OrderResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms-system/src/main/java/com/e_commerce/sms/controller/SmsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms-system/src/main/java/com/e_commerce/sms/entity/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms-system/src/main/java/com/e_commerce/sms/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms-system/src/main/java/com/e_commerce/sms/service/SmsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/MvpApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/configs/OpenApiConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/controller/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/entity/OrderEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/repository/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/request/OrderRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/java/com/e_commerce/mvp/service/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/test/java/com/e_commerce/mvp/MvpApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/test/java/com/e_commerce/mvp/TestMvpApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp/src/test/java/com/e_commerce/mvp/TestcontainersConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-system/src/main/java/com/e_commerce/order/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-system/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/order-system/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -63,61 +65,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3189317134586247" />
-      <entry key="MS500" value="4.231399597976676" />
-      <entry key="S2" value="13.780198035696767" />
-      <entry key="S5" value="29.55319381562227" />
-      <entry key="S10" value="46.03776881845208" />
-      <entry key="S30" value="71.76700690752439" />
-      <entry key="S60" value="92.16078346348954" />
-      <entry key="M2" value="113.7432471369327" />
-      <entry key="M5" value="147.82857708609043" />
-      <entry key="M10" value="216.70141161388904" />
-      <entry key="M15" value="312.74711603473855" />
-      <entry key="M30" value="665.7629675280149" />
-      <entry key="H1" value="1216.179265281462" />
-      <entry key="H2" value="1747.2412832352104" />
-      <entry key="H4" value="2124.890824031114" />
-      <entry key="D1" value="2518.8948586983147" />
-      <entry key="W1" value="2595.0415285388244" />
+      <entry key="MS100" value="1.493073735488363" />
+      <entry key="MS500" value="3.9019382011253163" />
+      <entry key="S2" value="12.575994216450477" />
+      <entry key="S5" value="24.18481092390223" />
+      <entry key="S10" value="42.378815140885564" />
+      <entry key="S30" value="94.34555917181521" />
+      <entry key="S60" value="131.19502188319456" />
+      <entry key="M2" value="167.85183765812724" />
+      <entry key="M5" value="238.48535258347593" />
+      <entry key="M10" value="326.08969007471904" />
+      <entry key="M15" value="397.14008808172713" />
+      <entry key="M30" value="623.8947443107695" />
+      <entry key="H1" value="1153.6926163767905" />
+      <entry key="H2" value="1972.7078265303144" />
+      <entry key="H4" value="2770.294158908819" />
+      <entry key="D1" value="3810.1265075780693" />
+      <entry key="W1" value="4036.615600546797" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="3.5895115674668966E-206" />
-      <entry key="S30" value="3.298717587281955E-69" />
-      <entry key="S60" value="5.744577950001063E-35" />
-      <entry key="M2" value="7.684935133073086E-18" />
-      <entry key="M5" value="1.6759994595916135E-7" />
-      <entry key="M10" value="5.370946677052845E-4" />
-      <entry key="M15" value="0.008168190144760295" />
-      <entry key="M30" value="0.12655756664819826" />
-      <entry key="H1" value="0.5018428574134971" />
-      <entry key="H2" value="1.0012092180033547" />
-      <entry key="H4" value="1.4148449004793913" />
-      <entry key="D1" value="1.887847635243053" />
-      <entry key="W1" value="1.9835781962037422" />
+      <entry key="MS500" value="4.747339736718853E-243" />
+      <entry key="S2" value="2.9982417927301654E-61" />
+      <entry key="S5" value="8.541517071401974E-25" />
+      <entry key="S10" value="1.2856891711376943E-12" />
+      <entry key="S30" value="2.0581598437962516E-4" />
+      <entry key="S60" value="0.031423741220685" />
+      <entry key="M2" value="0.4719565842673754" />
+      <entry key="M5" value="2.9399098750652564" />
+      <entry key="M10" value="6.781708680409221" />
+      <entry key="M15" value="10.91963358005968" />
+      <entry key="M30" value="23.766884891627793" />
+      <entry key="H1" value="41.598126388910465" />
+      <entry key="H2" value="57.93477505784128" />
+      <entry key="H4" value="69.37416597579757" />
+      <entry key="D1" value="81.29587613988807" />
+      <entry key="W1" value="83.6064531216092" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2625782239715793" />
-      <entry key="MS500" value="4.2022793390402535" />
-      <entry key="S2" value="13.757983894022006" />
-      <entry key="S5" value="29.534149857732682" />
-      <entry key="S10" value="46.0229179480392" />
-      <entry key="S30" value="71.75923216058655" />
-      <entry key="S60" value="92.15566323928212" />
-      <entry key="M2" value="113.73999045810662" />
-      <entry key="M5" value="147.82682936359572" />
-      <entry key="M10" value="216.70056081150673" />
-      <entry key="M15" value="312.75379030012806" />
-      <entry key="M30" value="665.8874857434762" />
-      <entry key="H1" value="1216.6788886190668" />
-      <entry key="H2" value="1748.2407439819679" />
-      <entry key="H4" value="2126.3045556387815" />
-      <entry key="D1" value="2520.782477852714" />
-      <entry key="W1" value="2597.02507288965" />
+      <entry key="MS100" value="1.3501418689958682" />
+      <entry key="MS500" value="3.8590633037795783" />
+      <entry key="S2" value="12.554352881108718" />
+      <entry key="S5" value="24.17040830498182" />
+      <entry key="S10" value="42.36709916863248" />
+      <entry key="S30" value="94.33757186272588" />
+      <entry key="S60" value="131.21968091001415" />
+      <entry key="M2" value="168.31266574736367" />
+      <entry key="M5" value="241.40415397379232" />
+      <entry key="M10" value="332.8447563137176" />
+      <entry key="M15" value="408.02863392505753" />
+      <entry key="M30" value="647.6239822614345" />
+      <entry key="H1" value="1195.2556343612748" />
+      <entry key="H2" value="2030.6171614332902" />
+      <entry key="H4" value="2839.652725669355" />
+      <entry key="D1" value="3891.4192670356488" />
+      <entry key="W1" value="4120.22159384505" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -129,43 +131,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;New/updated database configurations found&quot;,
-    &quot;Notification.DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MvpApplication.executor&quot;: &quot;Run&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;e-commerce-base&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/adriano/git/ImpossibleProject/Doc/Images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MvpApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "e-commerce-base",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/adriano/git/ImpossibleProject/sms-system/src/main/java/com/e_commerce/sms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sms-system/src/main/java/com/e_commerce/sms" />
+      <recent name="$PROJECT_DIR$/email-system/src/main/java/com/e_commerce/email" />
       <recent name="$PROJECT_DIR$/Doc/Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -195,8 +197,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>

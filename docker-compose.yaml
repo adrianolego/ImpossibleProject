@@ -1,0 +1,72 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: e_commerce_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: e_commerce_db
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d e_commerce_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  order-system:
+    build:
+      context: .
+      dockerfile: order-system/Dockerfile
+    container_name: order_system
+    restart: unless-stopped
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/e_commerce_db
+      SERVICES_BASE_URL: http://order-system:8080
+      SERVICES_EMAIL_URL: http://email-system:8081/v1/email/{id}
+      SERVICES_SMS_URL: http://sms-system:8082/v1/sms/{id}
+    ports:
+      - "8080:8080"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      email-system:
+        condition: service_started
+      sms-system:
+        condition: service_started
+
+  email-system:
+    build:
+      context: .
+      dockerfile: email-system/Dockerfile
+    container_name: email_system
+    restart: unless-stopped
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/e_commerce_db
+      SERVER_PORT: 8081
+    ports:
+      - "8081:8081"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  sms-system:
+    build:
+      context: .
+      dockerfile: sms-system/Dockerfile
+    container_name: sms_system
+    restart: unless-stopped
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/e_commerce_db
+      SERVER_PORT: 8082
+    ports:
+      - "8082:8082"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
